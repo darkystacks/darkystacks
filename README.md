@@ -14,7 +14,7 @@
 - 🤓 &nbsp; Quick learner
 
 
-<h1 align="center"><b>Languages and tools</b></h1>
+<h1 align="center"><b>Langs and tools</b></h1>
 
 <table align="center">
   <tr>
