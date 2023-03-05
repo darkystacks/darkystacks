@@ -23,13 +23,14 @@
         <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://plugins.jetbrains.com/files/12820/141266/icon/pluginIcon.svg" width="48" height="48" alt="PgSQL" />
-        <br>Redis
+        <img src="https://img.icons8.com/color/512/html" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://img.icons8.com/dusk/512/docker.png" width="48" height="48" alt="PgSQL" />
-        <br>Docker
+        <img src="https://img.icons8.com/color/512/css" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
     </td>
+    
     <td align="center" width="96">
         <img src="https://tproger.ru/s3/uploads/2020/12/git_guide_for_beginners-cover-icon-original.png" width="48" height="48" alt="PgSQL" />
         <br>GIT
