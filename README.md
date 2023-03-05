@@ -19,14 +19,6 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://web-creator.ru/uploads/Page/19/python.svg" width="48" height="48" alt="Python" />
-        <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://habrastorage.org/getpro/freelansim/allfiles/53/533/533670/839d71d825.png" width="48" height="48" alt="Django" />
-        <br>Django
-    </td>
-    <td align="center" width="96">
         <img src="https://img.icons8.com/color/512/javascript.png" width="48" height="48" alt="JavaScript" />
         <br>JavaScript
     </td>
