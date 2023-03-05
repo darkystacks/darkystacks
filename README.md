@@ -23,14 +23,6 @@
         <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://ps.w.org/custom-wp-rest-api/assets/icon-128x128.png?rev=1975404" width="48" height="48" alt="DRF" />
-        <br>DRF
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48" height="48" alt="PgSQL" />
-        <br>PgSQL
-    </td>
-    <td align="center" width="96">
         <img src="https://plugins.jetbrains.com/files/12820/141266/icon/pluginIcon.svg" width="48" height="48" alt="PgSQL" />
         <br>Redis
     </td>
