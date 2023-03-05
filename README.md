@@ -9,7 +9,7 @@
 
 - 👌 &nbsp; Always ready to try something new
 
-- 😳 &nbsp; Who is Python??
+- 😳 &nbsp; Who is js??
 
 - 🤓 &nbsp; Quick learner
 
