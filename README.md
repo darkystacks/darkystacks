@@ -9,8 +9,6 @@
 
 - 👌 &nbsp; Always ready to try something new
 
-- 😳 &nbsp; Who is js??
-
 - 🤓 &nbsp; Quick learner
 
 
