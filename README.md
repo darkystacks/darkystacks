@@ -17,20 +17,12 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://img.icons8.com/color/512/javascript.png" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://img.icons8.com/color/512/html" width="48" height="48" alt="HTML" />
-        <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://img.icons8.com/color/512/css" width="48" height="48" alt="CSS" />
-        <br>CSS
-    </td>
-    <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207" width="48" height="48" alt="React" />
         <br>React
+    </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/?size=512&id=jD-fJzVguBmw&format=png" width="48" height="48" alt="Redux" />
+        <br>Redux
     </td>
     <td align="center" width="96">
         <img src="https://img.icons8.com/color/512/typescript" width="48" height="48" alt="TypeScript" />
