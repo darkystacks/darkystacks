@@ -3,9 +3,9 @@
 </h1>
 
 
-- 👼🏻 &nbsp; Learning coding 
+- 👼🏻 &nbsp; wondering if my dota hours in the past were learning hours...
 
-- 🙈 &nbsp; A bit of crypto...
+- 🙈 &nbsp; A bit of crypto
 
 - 👌 &nbsp; Always ready to try something new
 
